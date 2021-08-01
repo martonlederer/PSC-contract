@@ -1,0 +1,16 @@
+{
+  "name": "Super-Duper Community",
+  "ticker": "SDC",
+  "balances": {
+    "ljvCPN31XCLPkBo9FUeB7vAK0VC6-eY52-CS-6Iho8U": 10000000
+  },
+  "vault": {},
+  "votes": [],
+  "roles": {},
+  "settings": [
+      ["quorum", 0.5],
+      ["voteLength", 2000],
+      ["lockMinLength", 100],
+      ["lockMaxLength", 10000]
+  ]
+}

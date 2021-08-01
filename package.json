@@ -1,5 +1,13 @@
 {
+  "scripts": {
+    "build": "node ./scripts/build.js",
+    "deploy": "node ./scripts/deploy.js"
+  },
   "devDependencies": {
     "esbuild": "^0.12.17"
+  },
+  "dependencies": {
+    "arweave": "^1.10.16",
+    "smartweave": "^0.4.41"
   }
 }
