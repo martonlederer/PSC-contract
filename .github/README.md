@@ -1,6 +1,6 @@
 # PSC contract
 
-This is an example Arweave Profit Sharing Community contract based on [CommunityXYZ/contract](https://github.com/CommunityXYZ/contract). It uses the super-fast esbuild bundler to build the contract. It is also re-organized in a more modular and separated way.
+This is an example Arweave Profit Sharing Community contract based on [CommunityXYZ/contract](https://github.com/CommunityXYZ/contract). It is re-organized in a more modular and separated way, while keeping the required functions and values.
 
 ## Building
 
